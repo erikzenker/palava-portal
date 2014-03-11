@@ -10,6 +10,7 @@ gem 'oj'
 gem 'rack-rewrite'
 gem 'whiskey_disk'
 
-group :development do
-  gem 'debugger'
-end
+# Does not work with ruby 2.1.0
+#group :development do
+#  gem 'debugger'
+#end
