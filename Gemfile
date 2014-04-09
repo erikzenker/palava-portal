@@ -10,6 +10,6 @@ gem 'oj'
 gem 'rack-rewrite'
 gem 'whiskey_disk'
 
-group :development do
-  gem 'debugger', '~>1.6.6'
-end
+#group :development do
+#  gem 'debugger', '~>1.6.6'
+#end
