@@ -11,5 +11,5 @@ gem 'rack-rewrite'
 gem 'whiskey_disk'
 
 group :development do
-  gem 'debugger'
+  gem 'debugger', '~>1.6.6'
 end
